@@ -38,7 +38,7 @@
 ## 📫 Bana Ulaşın
 - **E-posta:** kucukkurtmm@gmail.com  
 - **LinkedIn:** --  
-- **Portfolio (GitHub Pages):** [Proje Linki](https://kucukkurt1.github.io)
+- **Portfolio (GitHub Pages):** [Proje Linki](https://Kucukkurt1.github.io)
 
 ---
 
