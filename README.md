@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Merhaba, ben Mehmet Emin Küçükkurt  
 
-<!--
-**Kucukkurt1/Kucukkurt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Yazılım Mühendisliği öğrencisiyim** ve yazılım geliştirme, oyun geliştrime , Website tasarımı ve siber güvenlik alanlarında çalışıyorum.  
+🚀 Hedefim; hem oyun geliştirme hem de güvenlik araçları geliştirerek çok yönlü bir yazılım geliştirici olmak.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Bildiğim Teknolojiler
+
+### 💾 Programlama Dilleri
+- **İleri Seviye:** C, C++, HTML, CSS, JavaScript  
+- **Orta Seviye:** C#, Java  
+- **Temel / Öğrenme Aşamasında:** Python, PHP  
+
+### 🎮 Oyun Motorları
+- Unity (C#)  
+- Unreal Engine (C++)  
+
+### 🔒 Siber Güvenlik
+- Port tarayıcı, dosya şifreleme, keylogger gibi eğitim amaçlı araçlar geliştirme  
+- Reverse engineering ve oyun modlama (Türkçe yama yapımı)
+
+---
+
+## 📌 İlgi Alanlarım
+- Oyun Geliştirme 🎮  
+- Siber Güvenlik 🔐  
+- Web Uygulamaları 🌐  
+- Açık Kaynak Projeler 📂
+
+---
+
+## 📈 GitHub İstatistiklerim
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kucukkurt1&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Bana Ulaşın
+- **E-posta:** kucukkurtmm@gmail.com  
+- **LinkedIn:** --  
+- **Portfolio (GitHub Pages):** [Proje Linki](https://kucukkurt1.github.io)
+
+---
+
+⭐ **Not:** Burada paylaştığım tüm siber güvenlik projeleri yalnızca **eğitim ve araştırma amaçlıdır**.
