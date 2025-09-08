@@ -13,12 +13,12 @@
 - **Temel / Öğrenme Aşamasında:** Python, PHP  
 
 ### 🎮 Oyun Motorları
-- Unity (C#)  
-- Unreal Engine (C++)  
+- Unity  
+- Unreal Engine   
 
 ### 🔒 Siber Güvenlik
 - Port tarayıcı, dosya şifreleme, keylogger gibi eğitim amaçlı araçlar geliştirme  
-- Reverse engineering ve oyun modlama (Türkçe yama yapımı)
+- Reverse engineering ve oyun modlama 
 
 ---
 
