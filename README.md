@@ -7,9 +7,8 @@
 
 ## 🛠 Bildiğim Teknolojiler
 
-### 💾 Programlama Dilleri
-- **İleri Seviye:** C, C++, HTML, CSS, JavaScript  
-- **Orta Seviye:** C#, Java  
+### 💾 Programlama Dilleri 
+- **Orta Seviye:** C, C++, HTML, CSS, JavaScript, C#, Java  
 - **Temel / Öğrenme Aşamasında:** Python, PHP  
 
 ### 🎮 Oyun Motorları
